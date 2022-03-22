@@ -1,4 +1,4 @@
-package baumer.one.stream.example;
+package baumer.one.stream.example.streams;
 
 import baumer.one.stream.bean.CloseApproachData;
 import baumer.one.stream.bean.NearEarthObject;
