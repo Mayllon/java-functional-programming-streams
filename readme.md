@@ -39,9 +39,9 @@
 <details>
   <summary>Thanks :heart:</summary>
   <ol>
-    <li>[Nelson](https://github.com/amigoscode), for inspiring me to update my knowledge and seek to be a better developer.</li>
-    <li>[Jack Liddiard](https://github.com/deadcore), for providing an excellent <a href="https://github.com/deadcore/composite-java-validation-example">example</a> of validation using the functional paradigm.</li>
-    <li>NASA, for providing [public data](https://www.nasa.gov/open/data.html) that were used in this project.</li>
+      <li><a href="https://github.com/amigoscode">Nelson</a>, for inspiring me to update my knowledge and seek to be a better developer.</li>
+      <li><a href="https://github.com/deadcore">Jack Liddiard</a>, for providing an excellent <a href="https://github.com/deadcore/composite-java-validation-example">example</a> of validation using the functional paradigm.</li>
+      <li>NASA, for providing <a href="https://www.nasa.gov/open/data.html">public data</a> that were used in this project.</li>
   </ol>
 </details>
 
